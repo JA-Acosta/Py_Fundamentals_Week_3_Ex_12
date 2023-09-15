@@ -1,0 +1,7 @@
+This is the twenty-second program derived from 100 program prompts suggested by ChatGPT for a 4 week python course.
+
+Prompt(s) Used:
+56. Create a program that opens a file and handles exceptions if the file does not exist.
+59. Write a program that handles the FileNotFoundError when opening a file.
+64. Implement a program that uses try-except-else to handle exceptions and execute additional code.
+65. Write a program that demonstrates the use of the finally block in exception handling.
